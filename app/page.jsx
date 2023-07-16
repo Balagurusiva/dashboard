@@ -1,11 +1,13 @@
-import React from 'react'
+import LeftSide from '@components/LeftSide'
+import RightSide from '@components/RightSide'
+import '@styles/globals.css'
 import Link from 'next/link'
 
 const Home = () => {
   return (
-    <div>
-      this is home page
-      <Link href="/dashboard">dashboard</Link>
+    <div className='login_page'>
+       <LeftSide />
+       <RightSide />
     </div>
   )
 }
