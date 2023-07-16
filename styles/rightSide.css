@@ -1,0 +1,8 @@
+.right-side{
+    width: 75dvw;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
