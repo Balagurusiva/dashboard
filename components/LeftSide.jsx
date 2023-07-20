@@ -6,6 +6,7 @@ const LeftSide = () => {
     <div className='left-side'>
       <p className = "board">Board.</p>
     </div>
+    
   )
 }
 

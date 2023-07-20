@@ -1,0 +1,36 @@
+.login-form{
+    background-color: #ffffff;
+    width: 355px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 30px;
+}
+
+input{
+    width: 325px;
+    height: 45px;
+    border: none;
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.forget-pass{
+    margin-bottom:20px ;
+}
+
+button{
+    width: 330px;
+    height: 45px;
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+ 
+ 

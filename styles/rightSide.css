@@ -1,8 +1,43 @@
 .right-side{
     width: 75dvw;
-    background-color: #ffffff;
+    background-color: rgb(233, 233, 233);
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column; 
+}
+p{
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+.sign-in{
+    font-size: 20px;
+    font-weight:bold;
+    height: 30px;
+    width: 100px;
+}
+
+.login-option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+ 
+}
+
+.option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white ;
+    width: 200px;
+    height: 20px;
+    margin-right: 10px;
+    padding:5px 0px;
+    color: lightgray;
+    border-radius: 10px;
+    
 }
